@@ -1,7 +1,7 @@
 -- =================================================================
 -- vozoid hax - rivals
 -- =================================================================
-local ui = loadstring(game:HttpGet("https://raw.githubusercontent.com/lokerdavid77-star/ubiquitous-octo-happiness/refs/heads/main/vozoidui.lua"))()
+local ui = loadstring(game:HttpGet("https://raw.githubusercontent.com/lokerdavid77-star/privcheatfsdfsdfsdfsdffdgdfsfdgsgdffdgdfgfdgdgfgdfgdfdgfgf/refs/heads/main/vozoidui.lua"))()
 
 local Lighting    = game:GetService("Lighting")
 local Players     = game:GetService("Players")
